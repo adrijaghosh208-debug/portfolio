@@ -10,5 +10,5 @@ A personal portfolio website built with React to showcase my projects, skills, a
 
 ## Tech Stack
 - React
-- JavaScript
-- CSS
+
+
